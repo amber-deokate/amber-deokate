@@ -14,14 +14,14 @@
 </p>
 <br>
 
-### Programming Profiles :
+### Programming Profiles:
 
-<img align="left" alt="amber-deokate | Codeforces" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> Codeforces : [amber-deokate](https://codeforces.com/profile/amber-deokate)
+<img align="left" alt="amber-deokate | Codeforces" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> Codeforces: [amber-deokate](https://codeforces.com/profile/amber-deokate)
 
-<img align="left" alt="deokate_amber | Codechef" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> Codechef : [deokate_amber](https://www.codechef.com/users/deokate_amber)
+<img align="left" alt="deokate_amber | Codechef" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> Codechef: [deokate_amber](https://www.codechef.com/users/deokate_amber)
 
-<img align="left" alt="amberdeokate | HackerRank" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> HackerRank : [amberdeokate](https://www.hackerrank.com/profile/amberdeokate)
+<img align="left" alt="amberdeokate | HackerRank" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> HackerRank: [amberdeokate](https://www.hackerrank.com/profile/amberdeokate)
 
-<img align="left" alt="amber-deokate | HackerEarth" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> HackerEarth : [amber-deokate](https://www.hackerearth.com/@amber-deokate)
+<img align="left" alt="amber-deokate | HackerEarth" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> HackerEarth: [amber-deokate](https://www.hackerearth.com/@amber-deokate)
 
 </br>
